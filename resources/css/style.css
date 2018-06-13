@@ -1,0 +1,41 @@
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+body {
+  text-align: centre;
+  font-family: helvetica;
+}
+
+p {
+  font-size: 14px;
+}
+
+.menu {
+  font-size: 18px;
+  color: white;
+}
+
+.process {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.design {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+.footer {
+  font-size: 11px
+  color: white;
+  background-color: dimgray;
+}
