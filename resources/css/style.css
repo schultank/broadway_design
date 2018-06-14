@@ -10,12 +10,18 @@ h2 {
 }
 
 body {
-  text-align: centre;
+  text-align: center;
   font-family: helvetica;
 }
 
 p {
   font-size: 14px;
+}
+
+.header {
+  background-image: url(/media/root/Schulte/Projects/broadway/resources/images/the-flatiron-building.png);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .nav {
