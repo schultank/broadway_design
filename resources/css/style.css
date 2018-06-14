@@ -15,10 +15,11 @@ body {
 }
 
 
-.header {
+.heading {
   background-image: url(/media/root/Schulte/Projects/broadway/resources/images/the-flatiron-building.png);
   background-repeat: no-repeat;
   background-size: cover;
+  color: white;
 }
 
 .nav {
@@ -27,17 +28,17 @@ body {
 }
 
 
-.process {
+.info {
   font-size: 32px;
   font-weight: bold;
 }
 
-.design {
+.supportinfo {
   font-size: 23px;
   font-weight: bold;
 }
 
-.design p {
+.supportinfo p {
   font-size: 14px;
   font-weight: normal;
 }
